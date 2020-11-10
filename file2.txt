@@ -1,0 +1,2 @@
+It's a new day.
+We're still discussing Git and GitHub.
